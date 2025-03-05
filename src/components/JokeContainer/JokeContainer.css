@@ -1,0 +1,10 @@
+.joke-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+.joke-container span{
+    color: rgb(73, 6, 139);
+}
